@@ -15,5 +15,6 @@ The current time is: 09:40:28 PM
 
 
 *I learned how to be more proficient in C and formatting codes nicely as well as inserting comments.
+
 *I am also learning how to be better with Git and Github and using the terminal. 
 
